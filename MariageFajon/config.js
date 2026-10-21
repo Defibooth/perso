@@ -1,5 +1,4 @@
 window.DEFIBOOTH_CONFIG = {
-"expire": "2026-10-20"
 "evenement": "Amandine et Sylvain",
 "titre": "Vive les Mariés",
 "sousTitre": "24-06-2006",
